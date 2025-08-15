@@ -140,20 +140,12 @@ Byte sent out the secure, encrypted call, laying out the threat. The bounty was 
 
 Billy’s data-sharks were already at the reef. The crew found the flaw — a single-line bug in the smart contract. The core devs raced to deploy a patch, but it required community consensus.
 
----
-
-### Chapter 3 – The Digital Kraken
-
 Billy unleashed the **Digital Kraken** — a virus that could lock up everyone’s assets forever. The reef shook.  
 > "He's trying to prove the decentralized world is chaos!" Keikoa yelled.
 
 Kai dove into the dApp’s core logic, distracting the Kraken while the others finished the patch.
 
----
-
-### Chapter 4 – The Horizon of Web3
-
-The patch deployed. The back door closed. The Kraken dissolved into meaningless bits. Billy and his mafia were exiled, wallets flagged as malicious.
+Eventually, the patch deployed. The back door closed. The Kraken dissolved into meaningless bits. Billy and his mafia were exiled, wallets flagged as malicious.
 
 The crew sat on the sand, watching the Digital Reef glow again.
 
