@@ -133,7 +133,7 @@ Byte sent out the secure, encrypted call, laying out the threat. The bounty was 
 - **White-Hat Hackers:** The good guys. 🤠 They hack systems to find weaknesses and report them responsibly so they can be fixed.
 - **The Reward (Bounty):** Projects offer huge crypto payments to anyone who finds and reports a critical bug. This incentivizes hackers to help, not harm.
 - **Real-World Vibe:** The Devrandom story is based on a real event from 2017. A white-hat hacker discovered a critical vulnerability in the Parity multi-signature wallet that, if exploited, could have resulted in the theft of over $150 million worth of Ethereum. They reported it, saving a massive amount of crypto from being stolen. Slay.
-- Real world bug bounty hub example: <a href="https://immunefi.com/bug-bounty/">https://immunefi.com/bug-bounty/</a>
+- Real world bug bounty hub (many more aside of this): <a href="https://immunefi.com/bug-bounty/">https://immunefi.com/bug-bounty/</a>
 ---
 
 ### Chapter 2 – The Race to Patch the Reef
